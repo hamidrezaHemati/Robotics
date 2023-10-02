@@ -18,7 +18,7 @@ In this project, we leverage the power of the VFH algorithm for efficient obstac
 
 ## VFH Algorithm in Action
 
-![VFH Algorithm](/VFH_in_action.png)
+![VFH Algorithm](VFH_in_action.png)
 
 *Above: An illustration of the VFH algorithm in action from its original paper, showing threshold values and obstacle avoidance.*
 
