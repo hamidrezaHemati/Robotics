@@ -1,5 +1,5 @@
 # Robotics
-Robotics curse homeworks and slides
+Robotics course homeworks and slides
 Projects I have Designed as a TA for this curse
 Some selected projects
 
@@ -7,7 +7,8 @@ Some selected projects
 - Line Detection
 - Mapping environment using SLAM
 - Obstacle Avoidance using VFH algorithm
-- Robotics curse - 2022 winter spring semester
+- PID controll mobile robot in ROS for wall following
+- Robotics course - 2022 winter spring semester
 - Teaching Assistant
 
 ## Line Detection
@@ -22,11 +23,11 @@ This project focuses on implementing obstacle avoidance using the Vector Field H
 ## PID controll mobile robot in ROS for wall following
 This project involves the development of a wall-following mobile robot using a PID (Proportional-Integral-Derivative) controller. The robot is simulated in the ROS (Robot Operating System) environment, utilizing Gazebo and RViz simulators for a comprehensive and realistic simulation.
 
-## IOT curse - 2021 winter-spring semester
+## IOT course - 2021 winter-spring semester
 slides and projects i have done as student at IOT class in winter of 2021
 
 ## Teaching Assistant
-The projects and homeworks that I have designed for IOT curse as TA in 2 semesters
+The projects and homeworks that I have designed for IOT curse as Chief TA
 
 
 
