@@ -1,2 +1,0 @@
-string obstacle_name
-float64 distanceS
